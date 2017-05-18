@@ -1,0 +1,11 @@
+C:\Users\Chathuranga.Sandun\Source\Repos\webAPI-emptyproject\UserManagmentModule.DatabaseConnection\obj\Debug\UserManagmentModule.DatabaseConnection.csprojResolveAssemblyReference.cache
+C:\Users\Chathuranga.Sandun\Source\Repos\webAPI-emptyproject\UserManagmentModule.DatabaseConnection\bin\Debug\UserManagmentModule.DatabaseConnection.dll.config
+C:\Users\Chathuranga.Sandun\Source\Repos\webAPI-emptyproject\UserManagmentModule.DatabaseConnection\bin\Debug\UserManagmentModule.DatabaseConnection.dll
+C:\Users\Chathuranga.Sandun\Source\Repos\webAPI-emptyproject\UserManagmentModule.DatabaseConnection\bin\Debug\UserManagmentModule.DatabaseConnection.pdb
+C:\Users\Chathuranga.Sandun\Source\Repos\webAPI-emptyproject\UserManagmentModule.DatabaseConnection\bin\Debug\Npgsql.dll
+C:\Users\Chathuranga.Sandun\Source\Repos\webAPI-emptyproject\UserManagmentModule.DatabaseConnection\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Chathuranga.Sandun\Source\Repos\webAPI-emptyproject\UserManagmentModule.DatabaseConnection\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Chathuranga.Sandun\Source\Repos\webAPI-emptyproject\UserManagmentModule.DatabaseConnection\bin\Debug\Npgsql.xml
+C:\Users\Chathuranga.Sandun\Source\Repos\webAPI-emptyproject\UserManagmentModule.DatabaseConnection\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Chathuranga.Sandun\Source\Repos\webAPI-emptyproject\UserManagmentModule.DatabaseConnection\obj\Debug\UserManagmentModule.DatabaseConnection.dll
+C:\Users\Chathuranga.Sandun\Source\Repos\webAPI-emptyproject\UserManagmentModule.DatabaseConnection\obj\Debug\UserManagmentModule.DatabaseConnection.pdb
