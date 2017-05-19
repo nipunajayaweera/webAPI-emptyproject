@@ -26,8 +26,7 @@ namespace UserManagmentModule.Api.Controller
                 {
                     using (IDataReader reader = command.ExecuteReader())
                     {
-
-
+                         
                         while(reader.Read())
                         {
                             var a = reader.GetValue(1);
@@ -36,6 +35,9 @@ namespace UserManagmentModule.Api.Controller
                     }
                 }
             }
+
+
+
             return "Hello World";
         }
     }
