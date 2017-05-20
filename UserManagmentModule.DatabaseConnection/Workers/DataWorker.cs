@@ -15,7 +15,9 @@ namespace UserManagmentModule.DatabaseConnection.Workers
         {
             try
             {
-                _database = DatabaseFactory.CreateDatabase();
+                if (_database == null) {
+                    _database = DatabaseFactory.CreateDatabase();                    
+                }
             }
             catch (Exception excep)
             {
